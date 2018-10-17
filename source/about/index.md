@@ -13,7 +13,8 @@ sidebar: custom
 
 - 华南理工大学 17届信息工程电联班 本科
 
-- 2016.7 - 今 华为[深圳]
+- 2016.7 - 2018.5 华为[深圳]
+- 2018.5 - 今 shopee[深圳]
 
 
 #### 会点啥
@@ -33,6 +34,8 @@ sidebar: custom
 	2. python flask/django
 
 	3. node express/koa/eggjs
+
+	4. golang （目前主力开发语言）
 
 #### 爱好
 
