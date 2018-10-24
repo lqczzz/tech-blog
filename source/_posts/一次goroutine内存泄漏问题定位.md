@@ -8,7 +8,7 @@ tags:
 
 问题：
 
-![goroutine-leak](./img/goroutine-leak.png)
+![goroutine-leak](/images/goroutine-leak.png)
 
 
 Dump goroutines:
