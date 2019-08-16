@@ -70,10 +70,25 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+projects_url: http://github.com/lqczzz
+
+nav:
+  home: /
+  about: /about/
+  articles: /archives/
+  projects: projects_url
+
+social_links:
+  github: http://github.com/lqczzz
+  twitter: /
+  facebook: /
+  linkedin: /
+  mail: mailto:name@email.com
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: pure
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
